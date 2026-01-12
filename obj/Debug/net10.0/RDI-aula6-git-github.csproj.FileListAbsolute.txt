@@ -1,0 +1,14 @@
+C:\Users\dry22\Documents\RDI-aula6-git-github\bin\Debug\net10.0\RDI-aula6-git-github.exe
+C:\Users\dry22\Documents\RDI-aula6-git-github\bin\Debug\net10.0\RDI-aula6-git-github.deps.json
+C:\Users\dry22\Documents\RDI-aula6-git-github\bin\Debug\net10.0\RDI-aula6-git-github.runtimeconfig.json
+C:\Users\dry22\Documents\RDI-aula6-git-github\bin\Debug\net10.0\RDI-aula6-git-github.dll
+C:\Users\dry22\Documents\RDI-aula6-git-github\bin\Debug\net10.0\RDI-aula6-git-github.pdb
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.AssemblyInfoInputs.cache
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.AssemblyInfo.cs
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.csproj.CoreCompileInputs.cache
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.dll
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\refint\RDI-aula6-git-github.dll
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.pdb
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\RDI-aula6-git-github.genruntimeconfig.cache
+C:\Users\dry22\Documents\RDI-aula6-git-github\obj\Debug\net10.0\ref\RDI-aula6-git-github.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RDI-aula6-git-github/1.0.0": {
+        "runtime": {
+          "RDI-aula6-git-github.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RDI-aula6-git-github/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
